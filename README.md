@@ -1,1 +1,3 @@
-[![View notebooks](https://www.wolframcloud.com/objects/user-a31ed72a-ef44-48e3-add0-b5d27c8f7870/dev/WDV/badge2.png)](https://www.wolframcloud.com/objects/user-a31ed72a-ef44-48e3-add0-b5d27c8f7870/dev/WDV/wdv_api?user=dylanb314&repo=Test-Repo&branch=master)
+# Test Wolfram Language Repo
+
+[![View notebooks](https://www.test.wolframcloud.com/objects/dylanb/notebookviewersource/Images/badge.png)](https://www.test.wolframcloud.com/objects/dylanb/api/0.0/CommitObj?user=dylanb314&repo=Test-Repo&branch=master)
